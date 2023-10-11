@@ -1,0 +1,42 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "ShootingRange",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "26.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "ShootingRange",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "5244f1ad-4205-3cf8-a301-7e8b9c9b8cbc",
+		"modules":
+		{
+			"ShootingRange": "8cee7074-4384-ecab-02a9-1bbb1800f3a1"
+		}
+	}
+}
